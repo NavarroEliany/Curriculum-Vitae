@@ -380,55 +380,6 @@ footer {
     transition: .5s;
 }
 
-/* Galería de Imágenes */
-/* #experiencia {
-    
-    padding: 20px;
-    text-align: center;
-    background-color: #ffffff;
-} */
-/* 
-#experiencia h2 {
-    font-size: 2em;
-    margin-bottom: 20px;
-    color: #000000;     
-    display: block;
-    visibility: visible;
-}
-    
-
-.swiper {
-    width: 90%;
-    max-width: 800px;
-    margin: 100px auto;
-}
-
-.swiper-slide {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden;
-    border-radius: 10px;
-    box-shadow: 0 4px 6px #450181;
-}
-
-.swiper-slide img {
-    width: 50%;
-    height: 40%;
-    border-radius: 10px;
-}
-
-.swiper-button-prev, .swiper-button-next {
-    color: #000000;
-}
-
-/* .swiper-pagination {
-    position: relative;
-    bottom: 10px;
-} */ 
-
-
-
 /* ################################## EXPERIENCIA ################################## */
 .experiencia {
     
